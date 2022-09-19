@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+    <channel>
+        <name>프로야구</name>
+        <day>Mon</day>
+        <startTime>1900</startTime>
+        <endTime>2000</endTime>
+        <num>51</num>
+        <dsc>프로야구 실시간 중계</dsc>
+    </channel>
+    <channel>
+        <name>프로축구</name>
+        <day>Tue</day>
+        <startTime>2000</startTime>
+        <endTime>2100</endTime>
+        <num>40</num>
+        <dsc>프로축구 실시간 중계</dsc>
+    </channel>
+</channels>
